@@ -1,0 +1,2 @@
+seqnames	start	end	width	strand	gene_id	gene_name	gene_biotype	seq_coord_system	description	gene_id_version	canonical_transcript	symbol	entrezid
+17	40058290	40093867	35578	+	ENSG00000126351	THRA	protein_coding	chromosome	thyroid hormone receptor alpha [Source:HGNC Symbol;Acc:HGNC:11796]	ENSG00000126351.13	ENST00000450525	THRA	
